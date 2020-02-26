@@ -6,4 +6,4 @@ def replace_domain(email, old_domain, new_domain):
     return email + "true"
 
 
-print(replace_domain("jeff@bob.com", "", "bob.com", "", "jeff.com", ""))
+print(replace_domain("jeff@bob.com",  "bob.com", "jeff.com"))
