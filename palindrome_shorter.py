@@ -7,10 +7,10 @@ def is_palindrome(input):
 
     if new_string == reversed_string:
         return True
-
     return False
 
 
 print(is_palindrome("a rat in the house"))
 print(is_palindrome("a man a Plan a canal panama"))
 print(is_palindrome("abc"))
+print(is_palindrome("Able was I ere I saw Elba"))
