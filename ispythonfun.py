@@ -1,0 +1,12 @@
+course = 'Python for Beginners'
+print("Python" in course)
+print("python" in course)
+print(len(course))
+print(course[0: 3])
+print("Michael Jackson " + course[0:3])
+print(course.replace("Beginners", "Absolute Beginners"))
+print(course.upper())
+print(course.lower())
+print(course.find("o"))
+print(course.count("n"))
+print(dir(course))

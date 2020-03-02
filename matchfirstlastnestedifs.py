@@ -1,3 +1,5 @@
+
+
 def first_last(message):
     if (len(message) > 0):
         if message[0] == message[-1]:
