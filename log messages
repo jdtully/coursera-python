@@ -1,0 +1,267 @@
+09:01:43 nautilus: g_queue_free: assertion 'queue != NULL' failed
+09:01:42 whoopsie: [09:01:42] online
+09:01:41 nm-dispatcher: req:1 'connectivity-change': start running ordered scripts...
+09:01:41 systemd: Started Network Manager Script Dispatcher Service.
+09:01:41 dbus-daemon: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+09:01:41 systemd: Starting Network Manager Script Dispatcher Service...
+09:01:41 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.16' (uid=0 pid=1892 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+09:01:41 NetworkManager: <info>  [1584018101.3572] manager: NetworkManager state is now CONNECTED_GLOBAL
+09:01:41 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.Logs'
+09:01:39 packagekitd: resolve transaction /4287_bbedeabd from uid 1000 finished with success after 1326ms
+09:01:38 nautilus: g_queue_pop_head: assertion 'queue != NULL' failed
+09:01:37 gnome-shell: JS WARNING: [resource:///org/gnome/shell/ui/search.js 599]: reference to undefined property "_searchCancelTimeoutId"
+09:01:37 systemd: Started GNOME Terminal Server.
+09:01:37 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.Terminal'
+09:01:37 systemd: Starting GNOME Terminal Server...
+09:01:37 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.ControlCenter.SearchProvider'
+09:01:37 gnome-shell: JS WARNING: [resource:///org/gnome/shell/ui/search.js 506]: reference to undefined property "_searchCancelTimeoutId"
+08:59:20 kernel: psmouse serio1: TouchPad at isa0060/serio1/input0 - driver resynced.
+08:57:09 nm-dispatcher: req:1 'connectivity-change': start running ordered scripts...
+08:57:09 dbus-daemon: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+08:57:09 systemd: Started Network Manager Script Dispatcher Service.
+08:57:09 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.16' (uid=0 pid=1892 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+08:57:09 whoopsie: [08:57:09] offline
+08:57:09 systemd: Starting Network Manager Script Dispatcher Service...
+08:57:09 NetworkManager: <info>  [1584017829.2330] manager: NetworkManager state is now CONNECTED_SITE
+08:55:01 cron: pam_unix(cron:session): session closed for user root
+08:54:50 bash: Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+08:54:28 dhclient: bound to 192.168.0.17 -- renewal in 1502 seconds.
+08:54:28 nm-dispatcher: req:1 'dhcp4-change' [wlo1]: start running ordered scripts...
+08:54:28 systemd: Started Network Manager Script Dispatcher Service.
+08:54:28 dbus-daemon: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+08:54:28 systemd: Starting Network Manager Script Dispatcher Service...
+08:54:28 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.16' (uid=0 pid=1892 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+08:54:28 NetworkManager: <info>  [1584017668.8978] dhcp4 (wlo1): state changed bound -> bound
+08:54:28 dhclient: DHCPACK of 192.168.0.17 from 192.168.0.1
+08:54:16 gnome-shell: [25749:1:0312/085416.799118:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"MediaSource endOfStream before demuxer initialization completes (before HAVE_METADATA) is treated as an error. This may also occur as consequence of other MediaSource errors before HAVE_METADATA."}
+08:53:38 kernel: psmouse serio1: synaptics: queried min coordinates: x [1280..], y [1144..]
+08:48:05 gnome-shell: [8374:1:0312/084805.588266:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+08:45:01 cron: pam_unix(cron:session): session closed for user root
+08:44:17 gnome-shell: [28001:1:0312/084417.057510:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+08:44:16 gnome-keyring-d: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+08:41:04 systemd: Started Cleanup of Temporary Directories.
+08:40:47 kernel: psmouse serio1: TouchPad at isa0060/serio1/input0 - driver resynced.
+08:40:07 gnome-shell: [13594:1:0312/084007.031443:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+08:39:18 gnome-keyring-d: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+08:37:07 gnome-shell: [853:857:0312/083707.161215:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -201
+08:35:43 gnome-keyring-d: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+08:35:24 kernel: logitech-hidpp-device 0003:046D:405E.0005: multiplier = 8
+08:35:01 cron: pam_unix(cron:session): session closed for user root
+08:35:01 kernel: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+08:35:01 cron: pam_unix(cron:session): session opened for user root by (uid=0)
+08:30:15 nm-dispatcher: req:1 'dhcp6-change' [wlo1]: start running ordered scripts...
+08:30:15 systemd: Started Network Manager Script Dispatcher Service.
+08:30:15 dbus-daemon: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+08:30:15 NetworkManager: <info>  [1584016215.4302] dhcp6 (wlo1): state changed expire -> done
+08:30:15 dhclient: PRC: Address 2601:c6:cd00:19a0::9 depreferred.
+08:30:15 NetworkManager: <info>  [1584016215.4227] dhcp6 (wlo1): state changed bound -> unknown
+08:30:15 systemd: Starting Network Manager Script Dispatcher Service...
+08:30:15 dhclient: PRC: Rebinding lease on wlo1.
+08:30:15 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.16' (uid=0 pid=1892 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+08:30:15 NetworkManager: <info>  [1584016215.4117] dhcp6 (wlo1): state changed unknown -> bound, event ID="2e:cb:db:62|1582821187"
+08:30:15 dhclient: Max retransmission duration exceeded.
+08:30:05 packagekitd: get-details transaction /4286_cdceacab from uid 1000 finished with success after 1067ms
+08:30:05 dhclient: XMT: Confirm on wlo1, interval 1000ms.
+08:30:05 NetworkManager: <info>  [1584016205.2315] dhcp6 (wlo1): dhclient started with pid 16141
+08:30:04 packagekitd: search-file transaction /4285_ecdcbcec from uid 1000 finished with success after 1049ms
+08:29:58 kernel: logitech-hidpp-device 0003:046D:405E.0005: multiplier = 8
+08:29:58 upowerd: treating change event as add on /sys/devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.2/2-1.2:1.2/0003:046D:C52B.0003/0003:046D:405E.0005/power_supply/hidpp_battery_0
+08:29:58 kernel: logitech-hidpp-device 0003:046D:405E.0005: HID++ 4.5 device connected.
+08:29:57 packagekitd: search-file transaction /4279_aadcbddb from uid 1000 finished with success after 1035ms
+08:29:13 gnome-software: Only 8 apps for popular list, hiding
+08:29:13 packagekitd: resolve transaction /4267_debbbdae from uid 1000 finished with success after 866ms
+08:29:11 gnome-software: hiding category graphics featured applications: found only 1 to show, need at least 9
+08:29:11 packagekitd: resolve transaction /4265_eadcecdc from uid 1000 finished with success after 831ms
+08:29:10 gnome-software: Only 0 apps for recent list, hiding
+08:29:10 packagekitd: get-updates transaction /4264_edbaeaae from uid 1000 finished with success after 1271ms
+08:29:10 gnome-shell: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.72/org/ayatana/NotificationItem/livepatch
+08:29:10 pkexec: jeff: Executing command [USER=root] [TTY=unknown] [CWD=/home/jeff] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+08:29:09 gnome-software: failed to call gs_plugin_add_updates_historical on fwupd: failed to build result for 0dd908cf7038530fb3bb9b3eb07aa4d898160bc2
+08:29:09 systemd: Started Firmware update daemon.
+08:29:09 dbus-daemon: [system] Successfully activated service 'org.freedesktop.fwupd'
+08:29:08 kernel: radeon_dp_aux_transfer_native: 242 callbacks suppressed
+08:29:08 fwupd: 12:29:08:0622 FuPluginUefi         kernel efivars support missing: /sys/firmware/efi/efivars
+08:29:08 systemd: Starting Firmware update daemon...
+08:29:08 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.109' (uid=1000 pid=12816 comm="/usr/bin/gnome-software --gapplication-service " label="unconfined")
+08:29:07 gnome-software: disabled plugins: repos, dpkg, dummy, epiphany
+08:28:48 wpa_supplicant: wlo1: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-45 noise=9999 txrate=39000
+08:28:27 systemd: Stopped Read required files in advance.
+08:28:20 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.Metadata'
+08:28:20 systemd: Starting Virtual filesystem metadata service...
+08:28:20 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.59' (uid=1000 pid=9121 comm="nautilus-desktop " label="unconfined")
+08:28:20 nautilus-deskto: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+08:28:17 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.freedesktop.FileManager1'
+08:28:09 systemd: Started Evolution address book service.
+08:28:09 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+08:28:09 systemd: Starting Evolution address book service...
+08:28:08 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'ca.desrt.dconf'
+08:28:08 systemd: Started Evolution calendar service.
+08:28:08 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+08:28:08 kdeconnectd: kdeconnect.core: Broadcasting identity packet
+08:28:08 gnome-shell: GNOME Shell started at Thu Mar 12 2020 08:28:02 GMT-0400 (EDT)
+08:28:06 gsd-color: failed to set screen _ICC_PROFILE: Failed to open file “/home/jeff/.local/share/icc/edid-c945dc5ec5185079caa418b6d6a2a6e0.icc”: Permission denied
+08:28:06 gnome-shell: JS ERROR: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.ReserveDevice1.Audio0': no such name
+getUniqueBusNameSync@/usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/util.js:58:20
+traverseBusNames/<@/usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/util.js:82:34
+
+08:28:04 NetworkManager: <info>  [1584016084.8618] device (wlo1): scheduling DHCPv6 restart in 120 seconds, 3 tries left (reason: lease expired)
+08:28:04 dhclient: PRC: Address 2601:c6:cd00:19a0::9 depreferred.
+08:28:04 NetworkManager: <info>  [1584016084.8408] dhcp6 (wlo1):   nameserver '2001:558:feed::2'
+08:28:04 nm-dispatcher: req:3 'dhcp6-change' [wlo1]: start running ordered scripts...
+08:28:04 NetworkManager: <info>  [1584016084.8408] dhcp6 (wlo1):   nameserver '2001:558:feed::1'
+08:28:04 nm-dispatcher: req:3 'dhcp6-change' [wlo1]: new request (2 scripts)
+08:28:04 NetworkManager: <info>  [1584016084.8407] dhcp6 (wlo1):   address 2601:c6:cd00:19a0::9
+08:28:04 dhclient: PRC: Rebinding lease on wlo1.
+08:28:04 NetworkManager: <info>  [1584016084.8406] dhcp6 (wlo1):   preferred_lft 0
+08:28:04 dhclient: Max retransmission duration exceeded.
+08:28:04 systemd: Starting Evolution calendar service...
+08:28:04 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar7' unit='evolution-calendar-factory.service' requested by ':1.31' (uid=1000 pid=8948 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="unconfined")
+08:28:04 gsd-media-keys: g_variant_unref: assertion 'value != NULL' failed
+08:28:04 gnome-shell: JS WARNING: [/usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com/appIcons.js 1028]: unreachable code after return statement
+08:28:03 gnome-session-b: Entering running state
+08:28:03 gsd-media-keys: g_variant_unref: assertion 'value != NULL' failed
+08:28:03 gsd-color: failed to set screen _ICC_PROFILE: Failed to open file “/home/jeff/.local/share/icc/edid-c945dc5ec5185079caa418b6d6a2a6e0.icc”: Permission denied
+08:28:03 gsd-sharing: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+08:28:03 kernel: rfkill: input handler disabled
+08:28:03 gnome-session-b: WARNING: App 'spice-vdagent.desktop' exited with code 1
+08:28:02 spice-vdagent: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+08:28:02 systemd: Started Virtual filesystem service - GNOME Online Accounts monitor.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+08:28:02 systemd: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:02 systemd: Started Virtual filesystem service - Media Transfer Protocol monitor.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+08:28:02 goa-daemon: goa-daemon version 3.28.0 starting
+08:28:02 systemd: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:02 systemd: Started Virtual filesystem service - digital camera monitor.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+08:28:02 systemd: Starting Virtual filesystem service - digital camera monitor...
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:02 systemd: Started Virtual filesystem service - Apple File Conduit monitor.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+08:28:02 gvfs-afc-volume: Volume monitor alive
+08:28:02 systemd: Starting Virtual filesystem service - Apple File Conduit monitor...
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:02 systemd: Started Virtual filesystem service - disk device monitor.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+08:28:02 systemd: Starting Virtual filesystem service - disk device monitor...
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:02 gnome-shell: Telepathy is not available, chat integration will be disabled.
+08:28:02 systemd: Started Evolution source registry.
+08:28:02 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+08:28:02 polkitd: Registered Authentication Agent for unix-session:2 (system bus name :1.84 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+08:28:02 wpa_supplicant: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface dbus_property=Stations getter failed
+08:28:02 systemd: Started Location Lookup Service.
+08:28:02 dbus-daemon: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+08:28:02 systemd: Starting Location Lookup Service...
+08:28:02 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.84' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:01 systemd: Starting Evolution source registry...
+08:28:01 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.31' (uid=1000 pid=8948 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="unconfined")
+08:28:01 dhclient: XMT: Confirm on wlo1, interval 2840ms.
+08:28:01 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.freedesktop.portal.IBus'
+08:28:01 systemd: Started sandboxed app permission store.
+08:28:01 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+08:28:01 systemd: Starting sandboxed app permission store...
+08:28:01 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:00 kernel: Bluetooth: RFCOMM ver 1.11
+08:28:00 pulseaudio: E: [pulseaudio] backend-ofono.c: Failed to register as a handsfree audio agent with ofono: org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+08:28:00 bluetoothd: Endpoint registered: sender=:1.88 path=/MediaEndpoint/A2DPSink
+08:28:00 systemd: Started Sound Service.
+08:28:00 pulseaudio: E: [pulseaudio] module.c: Failed to load module "module-alsa-card" (argument: "device_id="2" name="usb-Standard_Microsystems_Corp._HP_Wireless_Audio_Adapter-00" card_name="alsa_card.usb-Standard_Microsystems_Corp._HP_Wireless_Audio_Adapter-00" namereg_fail=false tsched=yes fixed_latency_range=no ignore_dB=no deferred_volume=yes use_ucm=yes card_properties="module-udev-detect.discovered=1""): initialization failed.
+08:28:00 rtkit-daemon: Supervising 3 threads of 1 processes of 1 users.
+08:28:00 systemd: Starting Sound Service...
+08:28:00 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.gtk.vfs.Daemon'
+08:28:00 systemd: Starting Virtual filesystem service...
+08:28:00 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.21' (uid=1000 pid=8882 comm="/usr/bin/gnome-shell " label="unconfined")
+08:28:00 gdm-x-session: (II) modeset(0): Modeline "1920x1080"x0.0  149.80  1920 1984 2080 2242  1080 1083 1089 1113 -hsync -vsync (66.8 kHz eP)
+08:27:59 kernel: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+08:27:59 at-spi-bus-laun: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+08:27:59 systemd: Started Accessibility services bus.
+08:27:59 dbus-daemon: [session uid=1000 pid=8752] Successfully activated service 'org.a11y.Bus'
+08:27:59 systemd: Starting Accessibility services bus...
+08:27:59 dbus-daemon: [session uid=1000 pid=8752] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.6' (uid=1000 pid=8855 comm="/usr/lib/gnome-session/gnome-session-check-acceler" label="unconfined")
+08:27:59 gdm-x-session: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+08:27:57 systemd-timesyn: Synchronized to time server [2001:67c:1560:8003::c8]:123 (ntp.ubuntu.com).
+08:27:57 dhclient: XMT: Confirm on wlo1, interval 4280ms.
+08:27:57 whoopsie: [08:27:57] online
+08:27:57 gdm-x-session: (**) Option "xkb_layout" "us"
+08:27:56 systemd: Started D-Bus User Message Bus.
+08:27:56 dbus-daemon: [session uid=1000 pid=8752] AppArmor D-Bus mediation is enabled
+08:27:56 gdm-x-session: (II) This device may have been added with another device file.
+08:27:56 avahi-daemon: Server startup complete. Host name is jeff-HP-ENVY-17-Notebook-PC-2.local. Local service cookie is 2914288935.
+08:27:56 nm-dispatcher: req:2 'connectivity-change': start running ordered scripts...
+08:27:56 gdm-x-session: (==) RADEON(G0): Silken mouse enabled
+08:27:55 sshd: Server listening on :: port 22.
+08:27:55 systemd: Reloaded OpenBSD Secure Shell server.
+08:27:55 sshd: Received SIGHUP; restarting.
+08:27:55 systemd: Reloading OpenBSD Secure Shell server.
+08:27:55 systemd-resolve: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+08:27:55 dhclient: XMT: Confirm on wlo1, interval 1940ms.
+08:27:55 sshd: Server listening on :: port 22.
+08:27:55 systemd: Reloaded OpenBSD Secure Shell server.
+08:27:55 sshd: Received SIGHUP; restarting.
+08:27:55 systemd: Reloading OpenBSD Secure Shell server.
+08:27:55 gdm-x-session: (II) RADEON(G0): Direct rendering enabled
+08:27:55 systemd-resolve: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+08:27:55 NetworkManager: <info>  [1584016075.1571] manager: NetworkManager state is now CONNECTED_GLOBAL
+08:27:55 systemd: Started Network Manager Script Dispatcher Service.
+08:27:55 gdm-x-session: (II) RADEON(G0): EDID for output LVDS-1-1
+08:27:55 NetworkManager: <info>  [1584016074.0638] policy: set 'MOTOROLA-B07C7' (wlo1) as default for IPv6 routing and DNS
+08:27:55 gdm-x-session: (II) RADEON(G0): Output DisplayPort-1-4 has no monitor section
+08:27:55 systemd: Starting Network Manager Script Dispatcher Service...
+08:27:55 NetworkManager: <info>  [1584016074.0398] device (wlo1): Activation: successful, device activated.
+08:27:55 gdm-x-session: (II) RADEON(G0): Output DisplayPort-1-3 has no monitor section
+08:27:55 NetworkManager: <info>  [1584016074.0378] policy: set 'MOTOROLA-B07C7' (wlo1) as default for IPv4 routing and DNS
+08:27:55 kernel: radeon_dp_aux_transfer_native: 74 callbacks suppressed
+08:27:55 NetworkManager: <info>  [1584016074.0375] manager: NetworkManager state is now CONNECTED_SITE
+08:27:55 avahi-daemon: Registering new address record for 2601:c6:cd00:19a0:e154:7fd1:7a09:a0ed on wlo1.*.
+08:27:55 NetworkManager: <info>  [1584016073.8564] manager: NetworkManager state is now CONNECTED_LOCAL
+08:27:55 nm-dispatcher: req:2 'connectivity-change': new request (2 scripts)
+08:27:55 NetworkManager: <info>  [1584016073.8563] device (wlo1): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+08:27:55 dhclient: XMT: Confirm on wlo1, interval 940ms.
+08:27:55 NetworkManager: <info>  [1584016073.8557] device (wlo1): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+08:27:55 avahi-daemon: Registering new address record for 127.0.0.1 on lo.IPv4.
+08:27:55 NetworkManager: <info>  [1584016073.8548] device (wlo1): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+08:27:55 avahi-daemon: Registering new address record for ::1 on lo.*.
+08:27:55 NetworkManager: <info>  [1584016073.8516] dhcp4 (wlo1): state changed unknown -> bound
+08:27:55 avahi-daemon: Registering new address record for 192.168.0.17 on wlo1.IPv4.
+08:27:55 NetworkManager: <info>  [1584016073.8516] dhcp4 (wlo1):   nameserver '75.75.76.76'
+08:27:55 avahi-daemon: Registering new address record for 2601:c6:cd00:19a0:d00:c79b:def4:7785 on wlo1.*.
+08:27:55 NetworkManager: <info>  [1584016073.8516] dhcp4 (wlo1):   nameserver '75.75.75.75'
+08:27:55 avahi-daemon: Registering new address record for 172.17.0.1 on docker0.IPv4.
+08:27:55 NetworkManager: <info>  [1584016073.8515] dhcp4 (wlo1):   lease time 3600
+08:27:55 avahi-daemon: Host name conflict, retrying with jeff-HP-ENVY-17-Notebook-PC-2
+08:27:55 NetworkManager: <info>  [1584016073.8514] dhcp4 (wlo1):   gateway 192.168.0.1
+08:27:55 avahi-daemon: Withdrawing address record for 127.0.0.1 on lo.
+08:27:55 NetworkManager: <info>  [1584016073.8514] dhcp4 (wlo1):   plen 24 (255.255.255.0)
+08:27:55 avahi-daemon: Withdrawing address record for ::1 on lo.
+08:27:55 NetworkManager: <info>  [1584016073.8513] dhcp4 (wlo1):   address 192.168.0.17
+08:27:55 avahi-daemon: Withdrawing address record for 192.168.0.17 on wlo1.
+08:27:55 NetworkManager: <info>  [1584016072.2353] dhcp4 (wlo1): dhclient started with pid 8478
+08:27:55 gdm-x-session: 	ABI class: X.Org ANSI C Emulation, version 0.4
+08:27:55 avahi-daemon: Withdrawing address record for 172.17.0.1 on docker0.
+08:27:55 NetworkManager: <info>  [1584016072.1117] dhcp4 (wlo1): activation: beginning transaction (timeout in 45 seconds)
+08:27:55 gdm-x-session: (II) LoadModule: "glamoregl"
+08:27:55 nm-dispatcher: req:1 'up' [wlo1]: start running ordered scripts...
+08:27:55 systemd: Started User Manager for UID 1000.
+08:27:55 nm-dispatcher: req:1 'up' [wlo1]: new request (2 scripts)
+08:27:55 systemd: Startup finished in 194ms.
+08:27:55 gdm-x-session: (II) Module "dri2" already built-in
+08:27:55 dbus-daemon: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+08:27:55 systemd: Reached target Default.
+08:27:55 gdm-x-session: (II) Loading /usr/lib/xorg/modules/libfb.so
+08:27:55 avahi-daemon: Withdrawing address record for fe80::951a:c19a:dc5e:4361 on wlo1.
+08:27:55 systemd: Reached target Basic System.
+08:27:55 gdm-x-session: (II) modeset(0): Modeline "480x270"x119.6   18.62  480 504 520 560  270 271 274 278 doublescan +hsync -vsync (33.3 kHz d)
+08:27:55 avahi-daemon: Registering new address record for 2601:c6:cd00:19a0:d00:c79b:def4:7785 on wlo1.*.
+08:27:55 systemd: Reached target Sockets.
+08:27:55 gdm-x-session: (II) modeset(0): Modeline "720x405"x59.5   22.50  720 744 808 896  405 408 413 422 -hsync +vsync (25.1 kHz d)
+08:27:55 avahi-daemon: Joining mDNS multicast group on interface wlo1.IPv6 with address 2601:c6:cd00:19a0:d00:c79b:def4:7785.
+08:27:55 systemd: Listening on D-Bus User Message Bus Socket.
+08:27:55 gdm-x-session: (II) modeset(0): Modeline "800x600"x120.0   81.00  800 832 928 1080  600 600 602 625 doublescan +hsync +vsync (75.0 kHz d)
+08:27:55 avahi-daemon: Leaving mDNS multicast group on interface wlo1.IPv6 with address fe80::951a:c19a:dc5e:4361.
+08:27:55 systemd: Reached target Timers.
+08:27:55 gdm-x-session: (II) modeset(0): Modeline "1280x720"x59.7   63.75  1280 1328 1360 1440  720 723 728 741 +hsync -vsync (44.3 kHz d)
+08:27:55 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.16' (uid=0 pid=1892 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+08:27:55 systemd: Reached target Paths.
